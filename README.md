@@ -4,7 +4,7 @@ Computer Engineering @ UC Riverside | Incoming MS @ LMU | Robotics & ML Research
 
 I am a passionate engineer dedicated to building technologies that create a positive impact—from optimizing Large Language Models to developing smarter robotic systems and more efficient automotive hardware. My journey began in Brazil, and I’ve spent the last few years in the U.S. bridging the gap between curiosity and real-world application.
 
-🛠️ Technical Toolkit
+# Technical Toolkit
 Languages: Python, C++, C, SQL
 
 AI/ML: PyTorch, Vision-Language-Action (VLA) Models, Dataset Distillation (Tucker Decomposition)
@@ -13,7 +13,7 @@ Robotics & Embedded: ROS, Bimanual Manipulation, Drone Systems, Hardware-Softwar
 
 Tools: Git, Linux, NSF Discovery ACCESS (HPC Management)
 
-🔬 Featured Research & Projects
+# Featured Research & Projects
 [USDA Digital Agriculture Fellow] – Drone Gateway System
 
 Focus: Precision Agriculture & Embedded Systems
@@ -24,22 +24,19 @@ Impact: Built a custom drone gateway designed to monitor soil moisture levels ac
 
 Focus: Vision-Language-Action (VLA) Models
 
-Impact: Researching dataset distillation and Tucker decomposition to optimize how robotic arms learn complex, coordinated tasks.
+Impact: Researching dataset distillation and Tucker decomposition to optimize how robotic arms learn complex, coordinated tasks. Successfully completed diffusion model training and validarion
 
-[Automotive Engineering] – Corvette Restoration & Modding
 
-Focus: Systems Optimization
 
-Impact: Applying engineering principles to the maintenance and performance modification of C4 and C5 Corvettes, focusing on electronic and mechanical efficiency.
 
-📈 Engineering Impact & Leadership
+# Engineering Impact & Leadership
 Vice President @ IEEE (UCR Chapter): Leading technical workshops and fostering a community for aspiring engineers.
 
 Research Fellow: Managed high-performance computing resources via NSF Discovery ACCESS grants.
 
 Presenter: Showcasing Dataset Distillation research at the UR2PHD conference in New Orleans.
 
-📍 Currently Seeking
+# Currently Seeking
 I am actively looking for Internships or Part-Time roles for Summer/Fall 2026 in:
 
 Embedded Systems & Robotics
