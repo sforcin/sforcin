@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-Computer Engineering @ UC Riverside | Incoming MS @ LMU | Robotics & ML Researcher
+My name is Isabela Sforcin. I am a Computer Engineering student @ UC Riverside | Incoming MS @ LMU | Robotics & ML Researcher
 
 I am a passionate engineer dedicated to building technologies that create a positive impact—from optimizing Large Language Models to developing smarter robotic systems and more efficient automotive hardware. My journey began in Brazil, and I’ve spent the last few years in the U.S. bridging the gap between curiosity and real-world application.
 
 # Technical Toolkit
+Programming Languages: Python, C++, C, SQL, PyTorch
+AI/ML Tools: Vision-Language-Action models, 
 Languages: Python, C++, C, SQL
 
 AI/ML: PyTorch, Vision-Language-Action (VLA) Models, Dataset Distillation (Tucker Decomposition)
