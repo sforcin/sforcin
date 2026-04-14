@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Isabela Caroline Sforcin. I am a Computer Engineering student at UC Riverside, and incoming masters student at LMU.
+I am 23 years old, and moved to the United States from Brazil to pursue an education in and drive meaningful change. 
+ I am passionate about developing technologies that will create a positive impact on humanity. Whether it be something as important as a lighter way to run LLMs, or more efficient car parts that make driving better and easier.
+
+I have 3 years of experience in conducting research that aligned with my world views and applied my curiosity into projects I was interested in.
+
+Currently looking for internships and part-time jobs in the field of Computer Engineering (Embedded), Systems Engineer, Robotics and Machine Learning Engineering.
+
 <!--
 **sforcin/sforcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
