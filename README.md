@@ -16,7 +16,7 @@ Robotics & Embedded: ROS, Bimanual Manipulation, Drone Systems, Hardware-Softwar
 Tools: Git, Linux, NSF Discovery ACCESS (HPC Management)
 
 # Featured Research & Projects
-[USDA Digital Agriculture Fellow] – Drone Gateway System | Precision Agriculture & Embedded Systems
+## USDA Digital Agriculture Fellow – Drone Gateway System | Precision Agriculture & Embedded Systems
 
 Built a custom drone gateway designed to monitor soil moisture levels across large-scale farm environments, enabling data-driven irrigation.
 Full project pinned. 
