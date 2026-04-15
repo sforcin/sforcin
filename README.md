@@ -16,27 +16,37 @@ Robotics & Embedded: ROS, Bimanual Manipulation, Drone Systems, Hardware-Softwar
 Tools: Git, Linux, NSF Discovery ACCESS (HPC Management)
 
 # Featured Research & Projects
-[USDA Digital Agriculture Fellow] – Drone Gateway System
+[USDA Digital Agriculture Fellow] – Drone Gateway System | Precision Agriculture & Embedded Systems
 
-Focus: Precision Agriculture & Embedded Systems
+Built a custom drone gateway designed to monitor soil moisture levels across large-scale farm environments, enabling data-driven irrigation.
+Full project pinned. 
 
-Impact: Built a custom drone gateway designed to monitor soil moisture levels across large-scale farm environments, enabling data-driven irrigation.
+[NSF REU ] - Data Mining and Machine Learning | Dataset Distillation using Tensor Decomposition
 
-[NSF REU / GLAMOR Lab] – Bimanual Robotic Manipulation
+Created and implemented pipeline to distill large dataset and keep only most important data from it using Tucker Decomposition. Then, combined Machine Learning methods such as k-means, decision trees and gradient matching to achieve best possible accuracy on pipeline. Was able to achieve 96.4% accuracy utilizing only 0.04% of dataset. 
+This could be useful to improve data storage and manipulation in Large Language Models. Long term impact could be optimized energy usage and more managibility of big data.
+This work is unpublished, but the poster and abstract are available and pinned.
 
-Focus: Vision-Language-Action (VLA) Models
+[GLAMOR Lab] – Bimanual Robotic Manipulation | Vision-Language-Action (VLA) Models
 
-Impact: Researching dataset distillation and Tucker decomposition to optimize how robotic arms learn complex, coordinated tasks. Successfully completed diffusion model training and validarion
+My role in this research was assisting with adapting single arm Vision-Language-Action robot into bimanual robot operations. I assisted with loss function and image pre-processing. 
+Additionally, I am attempting to apply my dataset distillation into robotics datasets, which would significantly improve the accessibily of robotics work. I am also planning on indexing mechanistic fine-tuning into the pipeline to see how the overall model performs.
+Work is unpublished, therefore I cannot share code / work. 
 
+[Embedded Sytems Projects] - Computer Engineering Embedded Systems 
 
-
+A series of projects showcasing my skills in embedded systems, including my personal project of developing Space Invaders from scratch. All projects are included under "Embedded Systems Projects" Repository (pinned).
 
 # Engineering Impact & Leadership
 Vice President @ IEEE (UCR Chapter): Leading technical workshops and fostering a community for aspiring engineers.
 
 Research Fellow: Managed high-performance computing resources via NSF Discovery ACCESS grants.
 
-Presenter: Showcasing Dataset Distillation research at the UR2PHD conference in New Orleans.
+Research presentations: 
+2024 UCR Symposium - USDA Fellowship Project
+National Plant and Soil Conference of 2025 - USDA Fellowship project 
+2025 SoCal REU Symposium - NSF REU project 
+2026 UR2PHD Research Showcase Workshop - New Orlans - NSF REU Project
 
 # Currently Seeking
 I am actively looking for Internships or Part-Time roles for Summer/Fall 2026 in:
